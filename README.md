@@ -4,26 +4,9 @@
 
 ### *About Me!*
 
+<h3 align="center"> Senior Software Engineer | System Architect </h3> 
+
 I'm a Senior/Architect Level Full Stack Software Engineer who has got deep understanding and experience in various software design patterns and technologies used in software engineering. Expert in programming languages, with demonstrated ability to write high-quality, self-documented and testable code and to mentor team members.
-
-### States
-
-<div align="left">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gru-lucy/ilocodes/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gru-lucy/ilocodes/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/gru-lucy/ilocodes/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
 
 ### *Tech Stack*
 
