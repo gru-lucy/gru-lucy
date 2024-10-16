@@ -1,8 +1,31 @@
 ## Hi there 👋
 
-### *Gru-Lucy* is here!!! ✌
+### *Gru-Lucy is here!!! ✌*
 
-### Tech Stack
+### *About Me!*
+
+I'm a Senior/Architect Level Full Stack Software Engineer who has got deep understanding and experience in various software design patterns and technologies used in software engineering. Expert in programming languages, with demonstrated ability to write high-quality, self-documented and testable code and to mentor team members.
+
+### States
+
+<div align="left">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gru-lucy/ilocodes/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gru-lucy/ilocodes/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/gru-lucy/ilocodes/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
+### *Tech Stack*
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -52,3 +75,9 @@
 ![Amazon CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tamagui](https://img.shields.io/badge/-Tamagui-06B6D4?style=for-the-badge&logo=tamagui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
