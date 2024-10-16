@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### *Gru-Lucy* is here!!! ✌
+
 ### Tech Stack
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,3 +47,8 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
