@@ -2,12 +2,17 @@
 
 ### *Gru-Lucy is here!!! ✌*
 
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 ### *About Me!*
 
 <h3 align="center"> Senior Software Engineer | System Architect </h3> 
 
 I'm a Senior/Architect Level Full Stack Software Engineer who has got deep understanding and experience in various software design patterns and technologies used in software engineering. Expert in programming languages, with demonstrated ability to write high-quality, self-documented and testable code and to mentor team members.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gru-lucy&label=Profile%20views&color=0e75b6&style=flat" alt="sandarudilshan" /> </p>
+
+\
 ### *Tech Stack*
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
